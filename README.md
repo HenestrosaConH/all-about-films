@@ -21,7 +21,7 @@
   <h3 align="center">FilmApp</h3>
 
   <p align="center">
-    A film application to show a real application applying the [Jetpack Architecture](https://developer.android.com/jetpack).
+    A film application to show a real application applying the <a href="https://developer.android.com/jetpack" rel="noopener" target="_blank">Jetpack Architecture</a>.
     <br />
     <a href="https://github.com/HenestrosaConH/FilmApp/issues">Report Bug</a>
     ·
